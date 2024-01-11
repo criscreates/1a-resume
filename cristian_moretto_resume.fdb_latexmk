@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1704933077 "/home/cmoretto/repos/1a-resume/cristian_moretto_resume.tex" "cristian_moretto_resume.pdf" "cristian_moretto_resume" 1704933078
+["pdflatex"] 1705017177 "/home/cmoretto/repos/1a-resume/cristian_moretto_resume.tex" "cristian_moretto_resume.pdf" "cristian_moretto_resume" 1705017178
   "/etc/texmf/web2c/texmf.cnf" 1704578651 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/cmoretto/repos/1a-resume/cristian_moretto_resume.tex" 1704933077 9580 c2069c90dd0bfefa65d3ce6f06991e1c ""
+  "/home/cmoretto/repos/1a-resume/cristian_moretto_resume.tex" 1705017176 9631 4c77a07f76aa6c899c4b00ac216d8036 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -94,9 +94,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1704579445 4073795 a82a847ac97773bf4a607ab050efa3a1 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1704579178 1435906 6474aa8c85feb231ad83fbc48f7bc4dc ""
-  "cristian_moretto_resume.aux" 1704933078 1325 18b1f4ad095d12d3c17435281b4be5c4 "pdflatex"
-  "cristian_moretto_resume.out" 1704933078 592 d228404b30dc2eef76b05ddce421f4e0 "pdflatex"
-  "cristian_moretto_resume.tex" 1704933077 9580 c2069c90dd0bfefa65d3ce6f06991e1c ""
+  "cristian_moretto_resume.aux" 1705017178 1325 18b1f4ad095d12d3c17435281b4be5c4 "pdflatex"
+  "cristian_moretto_resume.out" 1705017178 592 d228404b30dc2eef76b05ddce421f4e0 "pdflatex"
+  "cristian_moretto_resume.tex" 1705017176 9631 4c77a07f76aa6c899c4b00ac216d8036 ""
   (generated)
   "cristian_moretto_resume.aux"
   "cristian_moretto_resume.log"
